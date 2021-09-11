@@ -1,6 +1,7 @@
-*The Rise and Fall of Bike Sharing in the Covid Era (June 2020 - Dec 2020)*
+#The Rise and Fall of Bike Sharing in the Covid Era (June 2020 - Dec 2020)#
 
 **Background**
+
 This project is a look at how the NYC lockdown affected demand and use of Citi Bikes throughout the city, as well as the general usage trends from June 2020 to Dec 2020. The inspiration for this project comes from Data Science and analytics Tableau Assignment. The general topics that I looked at were the change in general demand, the stations that were most popular, and the demographics of the people who use the service.
 
 The range of data used in this project is limited to June to Dec of 2020 due to the immense size of the data set.
